@@ -14,7 +14,7 @@
 
 演示站点:
 
-https://muzihuaner.github.io/moretoonepay
+https://muzihuaner.github.io/moretoonepay/
 
 
 终于不用靠别人的多合一收款码了😁
